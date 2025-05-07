@@ -37,3 +37,4 @@ In short, this dashboard helps make better decisions, improve strategy, and boos
 
 5. Screenshot:
 Shows what the dashboard looks like ->
+https://github.com/yashika230/Sales-dashboard/blob/main/Snapshot%20of%20Dashboard.png
